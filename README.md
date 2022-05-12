@@ -1,1 +1,32 @@
-# Conhecendo Git e GitHub, ajustes na configuração
+
+# Git e Github
+
+Projeto criado para instruir os alunos do programa devstart, quanto a utilizção do Git e Github. Utilizaremos este repositório para salvar dicas e comandos uteis do git e da plataforma Github.
+
+
+
+## Autores
+
+- [@AlexDeveloperOne](https://github.com/AlexDeveloperOne)
+
+
+## FAQ
+
+#### Questão 1
+
+Resposta 1
+
+#### Questão 2
+
+Resposta 2
+
+
+## Instalação
+
+Instale my-project com npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
