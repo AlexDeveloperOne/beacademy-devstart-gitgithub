@@ -6,7 +6,7 @@ Projeto criado para instruir os alunos do programa devstart, quanto a utilizçã
 
 ## Autores
 
-- [@AlexDeveloperOne](https://github.com/AlexDeveloperOne)
+- [@AlexDeveloperOne](https://github.com/AlexDeveloperOne) Alexandre
 
 
 ## Funcionalidades
