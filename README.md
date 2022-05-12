@@ -19,14 +19,3 @@ Resposta 1
 #### Questão 2
 
 Resposta 2
-
-
-## Instalação
-
-Instale my-project com npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
