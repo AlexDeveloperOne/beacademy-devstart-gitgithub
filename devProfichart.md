@@ -1,5 +1,6 @@
 ## Curso de Programação no ProfitChart
 https://www.cursou.com.br/informatica/programacao/programacao-profitchart/
+
 https://www.youtube.com/watch?v=pbb_vqyPeJw&list=TLGGJKHLoT_RIfAxMjA2MjAyMg
 
 ou
@@ -10,7 +11,8 @@ https://www.youtube.com/playlist?list=PLarsFoiCgNVmDUP9084urB5kLd1aDJ1Qi
 
 original
 https://hotmart.com/pt-br/marketplace/produtos/curso-completo-programacao-em-profitchart
-pdf
+
+pdf>
 https://schillerapp.com/wp-content/uploads/2022/05/Curriculo-v3-1.pdf
 
 
